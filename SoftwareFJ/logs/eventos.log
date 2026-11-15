@@ -1,0 +1,40 @@
+2026-11-15 10:14:40,792 | ERROR | Cliente invalido: El nombre debe tener mínimo 3 caracteres.
+2026-11-15 10:14:40,794 | ERROR | Servicio invalido: El precio debe ser mayor que cero.
+2026-11-15 10:14:40,795 | INFO | Reserva creada: 3e8157d9-22fa-43aa-8d4c-9778120f7885
+2026-11-15 10:14:40,795 | INFO | Reserva confirmada: 3e8157d9-22fa-43aa-8d4c-9778120f7885
+2026-11-15 10:14:40,796 | INFO | Reserva procesada: 3e8157d9-22fa-43aa-8d4c-9778120f7885. Costo: $107,100.00
+2026-11-15 10:14:40,797 | ERROR | Reserva invalida: Los días de alquiler deben ser mayores que cero.
+2026-11-15 10:14:40,797 | INFO | Reserva creada: 09ae4db0-6723-46eb-acd4-ff101d4caa04
+2026-11-15 10:14:40,798 | INFO | Reserva confirmada: 09ae4db0-6723-46eb-acd4-ff101d4caa04
+2026-11-15 10:14:40,798 | INFO | Reserva cancelada: 09ae4db0-6723-46eb-acd4-ff101d4caa04
+2026-11-15 10:14:40,801 | INFO | Ejecucion del sistema finalizada.
+2026-11-15 10:17:07,882 | ERROR | Cliente invalido: El nombre debe tener mínimo 3 caracteres.
+2026-11-15 10:17:07,883 | ERROR | Servicio invalido: El precio debe ser mayor que cero.
+2026-11-15 10:17:07,884 | INFO | Reserva creada: f93e8ef6-1070-4842-ad57-81191480b41d
+2026-11-15 10:17:07,884 | INFO | Reserva confirmada: f93e8ef6-1070-4842-ad57-81191480b41d
+2026-11-15 10:17:07,885 | INFO | Reserva procesada: f93e8ef6-1070-4842-ad57-81191480b41d. Costo: $107,100.00
+2026-11-15 10:17:07,885 | ERROR | Reserva invalida: Los días de alquiler deben ser mayores que cero.
+2026-11-15 10:17:07,887 | INFO | Reserva creada: 63f53ca7-3ec7-4a7f-821d-f12a11a7d81d
+2026-11-15 10:17:07,887 | INFO | Reserva confirmada: 63f53ca7-3ec7-4a7f-821d-f12a11a7d81d
+2026-11-15 10:17:07,887 | INFO | Reserva cancelada: 63f53ca7-3ec7-4a7f-821d-f12a11a7d81d
+2026-11-15 10:17:07,894 | INFO | Ejecucion del sistema finalizada.
+2026-11-15 10:19:56,508 | ERROR | Cliente invalido: El nombre debe tener mínimo 3 caracteres.
+2026-11-15 10:19:56,509 | ERROR | Servicio invalido: El precio debe ser mayor que cero.
+2026-11-15 10:19:56,509 | INFO | Reserva creada: 73648c2f-0a37-4287-bb92-bc7adde1cc17
+2026-11-15 10:19:56,510 | INFO | Reserva confirmada: 73648c2f-0a37-4287-bb92-bc7adde1cc17
+2026-11-15 10:19:56,510 | INFO | Reserva procesada: 73648c2f-0a37-4287-bb92-bc7adde1cc17. Costo: $107,100.00
+2026-11-15 10:19:56,510 | ERROR | Reserva invalida: Los días de alquiler deben ser mayores que cero.
+2026-11-15 10:19:56,510 | INFO | Reserva creada: 2341dde2-c7ff-4aa1-b775-31edd1552d12
+2026-11-15 10:19:56,511 | INFO | Reserva confirmada: 2341dde2-c7ff-4aa1-b775-31edd1552d12
+2026-11-15 10:19:56,511 | INFO | Reserva cancelada: 2341dde2-c7ff-4aa1-b775-31edd1552d12
+2026-11-15 10:19:56,511 | INFO | Ejecucion del sistema finalizada.
+2026-11-15 10:20:18,108 | ERROR | Cliente invalido: El nombre debe tener mínimo 3 caracteres.
+2026-11-15 10:20:18,121 | ERROR | Servicio invalido: El precio debe ser mayor que cero.
+2026-11-15 10:20:18,127 | INFO | Reserva creada: 0ddaa11d-b664-4435-87b6-06d7f25a568c
+2026-11-15 10:20:18,127 | INFO | Reserva confirmada: 0ddaa11d-b664-4435-87b6-06d7f25a568c
+2026-11-15 10:20:18,135 | INFO | Reserva procesada: 0ddaa11d-b664-4435-87b6-06d7f25a568c. Costo: $107,100.00
+2026-11-15 10:20:18,141 | ERROR | Reserva invalida: Los días de alquiler deben ser mayores que cero.
+2026-11-15 10:20:18,142 | INFO | Reserva creada: 1e965db2-9e6e-4e3f-8f62-cbb30a7625c1
+2026-11-15 10:20:18,142 | INFO | Reserva confirmada: 1e965db2-9e6e-4e3f-8f62-cbb30a7625c1
+2026-11-15 10:20:18,143 | INFO | Reserva cancelada: 1e965db2-9e6e-4e3f-8f62-cbb30a7625c1
+2026-11-15 10:20:18,167 | INFO | Ejecucion del sistema finalizada.
